@@ -87,9 +87,8 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="mailto:ojaswakesharwani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ojaswa-kesharwani-b2435927b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/ojaswakesharwani__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:anjaligupta02099@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anjali-gupta-390218310/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
  <img width="55%" align="right" alt="Professional Header" src="https://raw.githubusercontent.com/ojaswakesharwani/ojaswakesharwani/main/assets/download.jpeg" />
